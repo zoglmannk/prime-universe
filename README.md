@@ -1,7 +1,7 @@
 # prime-universe
 A novel way of visualizing the structure of prime numbers where every prime number represents a unique "dimension" in this universe
 
-Below is a novel way of visualizing the structure of prime numbers in a way that has never been done before. (If you'd like to check out the Python program, feel free to check it out on GitHub — https://github.com/zoglmannk/prime-universe . Warning, the Big O Notation of this program is non-linear. It is progressively computationally expensive to explore larger numbers of natural numbers. It took 20 minutes to calculate and plot the Prime Universe of the first 75,000 natural numbers in t-SNE to 2D).
+Below is a novel way of visualizing the structure of prime numbers in a way that has never been done before. Warning, the Big O Notation of this program is non-linear. It is progressively computationally expensive to explore larger numbers of natural numbers. It took 20 minutes to calculate and plot the Prime Universe of the first 75,000 natural numbers in t-SNE to 2D on a 2017 iMac 4.2GHz Quad-Core Intel Core i7.
 
 # Approach
 ### 1) The Prime Universe is about the concept of prime factorization.
